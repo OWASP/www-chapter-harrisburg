@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Pete Dayok](mailto:pete.dayok@owasp.org)
+* [James Lloyd](mailto:james.lloyd@owasp.org)
