@@ -1,11 +1,11 @@
 ---
-title: Example
+title: Next Meetup Info 
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: Next Meetup
 ---
 
-## Example
+## Our Next Meetup will be ....
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Thursday June 18th at 7pm.  This will be a virutal event.  Please look for the conference info in the next week.
