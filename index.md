@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Harrisburg
-tags: Next Meetup Info
+tags: tab_example.md
 region: 
 
 ---
