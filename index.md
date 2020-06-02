@@ -18,7 +18,7 @@ Welcome to the Harrisburg PA OWASP Chapter.
 
 ### Next Meetup
 Our next Meetup with be a Virtual Event on Thursday June 18th at 7pm. 
-[Meetup Page](https://www.meetup.com/OWASP-Harrisburg-Chapter/)
+* [Meetup Page](https://www.meetup.com/OWASP-Harrisburg-Chapter/)
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
