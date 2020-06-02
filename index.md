@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Harrisburg
-tags: tab_example.md
-region: Harrisburg PA
+tags: Harrisbug, PA
+region: 
 
 ---
 
@@ -12,7 +12,7 @@ region: Harrisburg PA
 ## Welcome
 Welcome to the Harrisburg PA OWASP Chapter. 
 
-# Next Meetup
+### Next Meetup
 Our next Meetup with be a Virtual Event on Thursday June 18th at 7pm. 
 [Meetup Page]https://www.meetup.com/OWASP-Harrisburg-Chapter/
 
