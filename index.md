@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Harrisburg PA
-tags: example-tag
-level: 0
+tags: harrisburg
+level: 3
 
 region: North America
 
