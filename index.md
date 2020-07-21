@@ -17,10 +17,15 @@ region: North America
 Welcome to the Harrisburg PA OWASP Chapter. 
 
 ### Next Meetup
-Our next Meetup with be a Virtual Event on Thursday June 18th at 7pm. 
+We will be planning out next virtual Meetup for end of August beginning of September 2020.  
 * [Meetup Page](https://www.meetup.com/OWASP-Harrisburg-Chapter/)
 
-## Participation
+### Previous Meetups
+We had our first meetup Decembers of 2019
+ - We introduced outselves and our mission for the chapter
+ Our 2nd meetup and first virtual meetup was June 2020.  We welcomed Ryan Nichoson (@ryananicholson) from SANs Instute who talked about “Defending Lift and Shift Cloud Applications” 
+
+### Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
