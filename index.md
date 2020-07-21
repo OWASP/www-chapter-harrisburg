@@ -23,9 +23,10 @@ We will be planning out next virtual Meetup for end of August beginning of Septe
 ### Previous Meetups
 * We had our first meetup Decembers of 2019
 
-We introduced outselves and our mission for the chapter
+- We introduced outselves and our mission for the chapter
  
-*Our 2nd meetup and first virtual meetup was June 2020.  We welcomed Ryan Nichoson (@ryananicholson) from SANs Instute who talked about “Defending Lift and Shift Cloud Applications” 
+* Our 2nd meetup and first virtual meetup was June 2020.  
+- We welcomed Ryan Nichoson (@ryananicholson) from SANs Instute who talked about “Defending Lift and Shift Cloud Applications” 
 
 ### Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
