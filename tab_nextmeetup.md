@@ -11,4 +11,4 @@ tags: harrisburg
 #
 ## Our Next Meetup will be ....
 
-Thursday June 18th at 7pm.  This will be a virutal event.  Please look for the conference info in the next week.
+We will be planning out next virtual Meetup for end of August beginning of September 2020.
