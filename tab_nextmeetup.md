@@ -1,6 +1,6 @@
 ---
 
-title: next_meetup
+title: nextmeetup
 displaytext: Next Meetup Info 
 layout:  null
 tab: true
