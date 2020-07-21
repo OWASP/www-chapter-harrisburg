@@ -1,9 +1,12 @@
 ---
-title: Next Meetup Info 
+
+title: next_meetup
+displaytext: Next Meetup Info 
 layout:  null
 tab: true
 order: 1
-tags: Next Meetup
+tags: harrisburg
+
 ---
 #
 ## Our Next Meetup will be ....
