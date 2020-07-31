@@ -8,6 +8,9 @@ level: 3
 region: North America
 
 
+meetup-group: OWASP-Harrisburg-Chapter
+country: USA
+postal-code: 17101
 
 ---
 
