@@ -11,4 +11,4 @@ tags: harrisburg
 #
 ## Our Next Meetup will be ....
 
-We will be planning out next virtual Meetup for end of August beginning of September 2020.
+Thursday September 17th 2020 at 7pm.  We will be doing a CtF walkthrough
