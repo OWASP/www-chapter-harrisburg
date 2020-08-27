@@ -20,7 +20,8 @@ postal-code: 17101
 Welcome to the Harrisburg PA OWASP Chapter. 
 
 ### Next Meetup
-We will be planning out next virtual Meetup for end of August beginning of September 2020.  
+Ourn next meetup with be Thursday September 17th at 7pm, this will be a virtual event. We will be completing a CtF walkthrough and covering the OWASP Top 10. 
+
 * [Meetup Page](https://www.meetup.com/OWASP-Harrisburg-Chapter/)
 
 ### Previous Meetups
