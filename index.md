@@ -33,6 +33,9 @@ Ourn next meetup with be Thursday September 17th at 7pm, this will be a virtual 
  #### Our 2nd meetup and first virtual meetup was June 2020.  
 - We welcomed Ryan Nichoson (@ryananicholson) from SANs Instute who talked about “Defending Lift and Shift Cloud Applications” 
 
+#### September 2020 Virtual Meetup/CtF
+- We hosted a virtual capture the flag even using the OWASP Juiceshop.  We had 3 winner for the even they were Brandon Keith, Josiah, and Ryan Vandenberg.
+
 ### Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
