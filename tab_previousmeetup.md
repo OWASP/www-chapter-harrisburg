@@ -13,3 +13,4 @@ tags: harrisburg
 
 - We had our first meetup Decembers of 2019 - We introduced outselves and our mission for the chapter
 - Our 2nd meetup and first virtual meetup was June 2020. - We welcomed Ryan Nichoson (@ryananicholson) from SANs Instute who talked about “Defending Lift and Shift Cloud Applications”
+- In September 2020 we hosted a Virtual Meetup/Capture the Flag event using the Juiceshop vulnerable web application.  
