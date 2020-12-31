@@ -20,7 +20,7 @@ postal-code: 17101
 Welcome to the Harrisburg PA OWASP Chapter. 
 
 ### Next Meetup
-Ourn next meetup with be Thursday, January 21, 2021 at 7 pm. We will be discussing the SANs Holiday Hack Challenge.
+Ourn next meetup with be Thursday, January 21, 2021 at 7 pm. We will be discussing the SANs Holiday Hack Challenge.  We will also talk about the coming year, and coming up with a joint project.  
 
 * [Meetup Page](https://www.meetup.com/OWASP-Harrisburg-Chapter/)
 
@@ -29,8 +29,8 @@ Ourn next meetup with be Thursday, January 21, 2021 at 7 pm. We will be discussi
 #### We had our first meetup Decembers of 2019
 
 - We introduced outselves and our mission for the chapter
- 
- #### Our 2nd meetup and first virtual meetup was June 2020.  
+
+#### Our 2nd meetup and first virtual meetup was June 2020.  
 - We welcomed Ryan Nichoson (@ryananicholson) from SANs Instute who talked about “Defending Lift and Shift Cloud Applications” 
 
 #### September 2020 Virtual Meetup/CtF
