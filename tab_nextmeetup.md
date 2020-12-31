@@ -11,4 +11,4 @@ tags: harrisburg
 #
 ## Our Next Meetup will be ....
 
-Thursday September 17th 2020 at 7pm.  We will be doing a CtF walkthrough
+Thursday, January 21, 2021.  We will be discussing the SANs Holiday Hack Challenge and our plans for the new year.  
