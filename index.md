@@ -30,7 +30,7 @@ Ourn next meetup with be Thursday, January 21, 2021 at 7 pm. We will be discussi
 
 - We introduced outselves and our mission for the chapter
 
-#### Our 2nd meetup and first virtual meetup was June 2020.  
+#### The second meetup and first virtual meetup was June 2020
 - We welcomed Ryan Nichoson (@ryananicholson) from SANs Instute who talked about “Defending Lift and Shift Cloud Applications” 
 
 #### September 2020 Virtual Meetup/CtF
