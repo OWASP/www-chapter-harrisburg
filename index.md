@@ -20,7 +20,7 @@ postal-code: 17101
 Welcome to the Harrisburg PA OWASP Chapter. 
 
 ### Next Meetup
-Our next meetup will be Thursday, January 21, 2021 at 7 pm. We will be discussing the SANS 2020 Holiday Hack Challenge.  We will also talk about the coming year and coming up with a joint project.  
+Our next meetup will be Spring 2021
 
 * [Meetup Page](https://www.meetup.com/OWASP-Harrisburg-Chapter/)
 
@@ -35,6 +35,9 @@ Our next meetup will be Thursday, January 21, 2021 at 7 pm. We will be discussin
 
 #### September 2020 Virtual Meetup/CTF
 - We hosted a virtual capture the flag event using the OWASP Juice Shop.  We had 3 winners for the event, they were Brandon Keith, Josiah, and Ryan Vandenberg.
+
+#### January 2021 Meetup 
+- On Thursday, January 21, 2021 at 7 pm, we discussed the SANS 2020 Holiday Hack Challenge and showed a walk through of some of the challenges.  We also talked about meetups/ideas for the the coming year. 
 
 ### Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
