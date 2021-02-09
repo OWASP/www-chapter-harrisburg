@@ -39,6 +39,14 @@ Our next meetup will be Spring 2021
 #### January 2021 Meetup 
 - On Thursday, January 21, 2021 at 7 pm, we discussed the SANS 2020 Holiday Hack Challenge and showed a walk through of some of the challenges.  We also talked about meetups/ideas for the the coming year. 
 
+
+
+
+
+
+
+
+
 ### Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
