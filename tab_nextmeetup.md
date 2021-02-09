@@ -11,4 +11,4 @@ tags: harrisburg
 #
 ## Our Next Meetup will be ....
 
-Thursday, January 21, 2021.  We will be discussing the SANs Holiday Hack Challenge and our plans for the new year.  
+Spring 2021 
