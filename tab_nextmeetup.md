@@ -11,4 +11,5 @@ tags: harrisburg
 #
 ## Our Next Meetup will be ....
 
-Spring 2021 
+May 20th at 7PM - This will be a virtual event.
+Topic: The two behind the AbsoluteAppSec Podcast will join us to discuss "Chronicles of True Risq"
