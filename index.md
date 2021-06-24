@@ -20,7 +20,7 @@ postal-code: 17101
 Welcome to the Harrisburg PA OWASP Chapter. 
 
 ### Next Meetup
-Our next meetup will May 20th 2021 at 7pm 
+Our next meetup will sometime in Q3 of 2021, August/September.
 
 * [Meetup Page](https://www.meetup.com/OWASP-Harrisburg-Chapter/)
 
@@ -39,6 +39,15 @@ Our next meetup will May 20th 2021 at 7pm
 #### January 2021 Meetup 
 - On Thursday, January 21, 2021 at 7 pm, we discussed the SANS 2020 Holiday Hack Challenge and showed a walk through of some of the challenges.  We also talked about meetups/ideas for the the coming year. 
 
+#### May 2021 Meetup
+
+- For the virtual meetup in May 2021 we were happy to have the host of Absolute AppSec Podcast.  Seth Law @sethlaw and Ken Johnson @cktricky.  They talked about cyber security risks to the organization.
+
+Chronicles of True Risq
+
+Description:
+
+"Our dynamic duo represent two separate types of security focus - External and Embedded (consultant vs defender). Their focus as it pertains to "True Risk" is different yet similar in many ways. Find out which parts are similar and those that are different in tonight's latest Episode of "Chronicles of True Risq: Maximum Loji"."
 
 
 <br/>
