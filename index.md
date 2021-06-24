@@ -41,7 +41,7 @@ Our next meetup will sometime in Q3 of 2021, August/September.
 
 #### May 2021 Meetup
 
-- For the virtual meetup in May 2021 we were happy to have the host of Absolute AppSec Podcast.  Seth Law @sethlaw and Ken Johnson @cktricky.  They talked about cyber security risks to the organization.
+- For the virtual meetup in May 2021 we were happy to have the hosts of Absolute AppSec Podcast.  Seth Law @sethlaw and Ken Johnson @cktricky.  They talked about cyber security risks to the organization.
 
 Chronicles of True Risq
 
