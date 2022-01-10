@@ -11,4 +11,7 @@ tags: harrisburg
 #
 ## Our Next Meetup will be ....
 
-Q3 of 2021, August - September 2021
+January 20th at 7PM.  
+https://www.meetup.com/OWASP-Harrisburg-Chapter/events/283183916
+
+We will be covering the SANs Holiday Hack Challenge from this past year.  
