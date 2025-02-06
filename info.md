@@ -1,7 +1,9 @@
 ### Harrisburg Information
-* The OWASP Harrisburg Chapter serves the need for application security professionals and OWASP knowledge transfer for the middle of the state of PA.  Because of COVID-19 we have moved to virutal meetups.  Please reach out if you want to join or participate in any of our meetups/projects.  
+* [Become an OWASP Member](https://www.owasp.org/index.php/Membership)
+* [Local Chapter Support](https://owasp.org/donate)
+* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+* [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
-[Meetup](https://www.meetup.com/OWASP-Harrisburg-Chapter)
-
-
+* [Meetup](https://www.meetup.com/OWASP-Harrisburg-Chapter)
+* [Linkedin](https://www.linkedin.com/groups/14607054)
