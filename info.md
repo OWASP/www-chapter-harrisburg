@@ -5,5 +5,5 @@
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
-* [Meetup](https://www.meetup.com/OWASP-Harrisburg-Chapter)
+* [Meetup](https://www.meetup.com/owasp-harrisburg/)
 * [Linkedin](https://www.linkedin.com/groups/14607054)
