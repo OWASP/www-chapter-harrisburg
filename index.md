@@ -5,7 +5,7 @@ title: OWASP Harrisburg
 tags: harrisburg
 region: North America 
 country: USA
-meetup-group:
+meetup-group: owasp-harrisburg
 
 ---
 
