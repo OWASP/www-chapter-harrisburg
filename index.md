@@ -21,4 +21,9 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
+**12/3/25 - Securing AI Software Development**
+
+Join cybersecurity educator and ethical hacker Brandon Keath for an interactive, Capture-the-Flag style session on securing AI software development. Whether you're a developer, pentester, or just AI-curious - you'll get your hands dirty in this hands-on security lab built for all skill levels. 
+[RSVP Here!](https://www.meetup.com/owasp-harrisburg/events/310832356/?eventOrigin=group_upcoming_events)
+
 {% include chapter_events.html group=page.meetup-group %}
